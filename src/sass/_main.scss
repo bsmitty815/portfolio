@@ -1,0 +1,18 @@
+
+
+html {
+  font-size: 62.5%;
+  /* 1 rem is 10 px, now you can update the font size to rem easier, you divinde every thing by 10 in padding
+    30px is 3 rem*/ }
+
+body {
+  padding: 2rem; 
+}
+
+.main {
+  background-color: rgba(224, 224, 224, 0.767);
+  border-top-left-radius: 5px 5px;
+  border-top-right-radius: 5px 5px;
+  border-bottom-left-radius: 5px 5px;
+  border-bottom-right-radius: 5px 5px;
+}

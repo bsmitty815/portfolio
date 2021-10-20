@@ -1,0 +1,47 @@
+.feature-app {
+    
+    margin-top: 2rem;
+
+    &--feature-box {
+        font-size: 1.5rem;
+        padding: 2.5rem;
+        text-align: center;
+        border-radius: 3px;
+        box-shadow: 0 1.5rem 4rem rgba(black, .15);
+        transition: transform .3s;
+        background-image: linear-gradient(to right bottom, rgb(255, 255, 255), orange);
+        
+    
+    }
+}
+
+// .feature-box {
+//     font-size: 1.5rem;
+//     padding: 2.5rem;
+//     text-align: center;
+//     border-radius: 3px;
+//     box-shadow: 0 1.5rem 4rem rgba(black, .15);
+//     transition: transform .3s;
+//     background-image: linear-gradient(to right bottom, rgb(255, 255, 255), orange);
+
+// }
+
+.app-image-box {
+
+    text-align: center;
+
+    position: relative;
+    transition: transform .3s;
+
+    &:hover {
+        outline: 1.5rem solid orange;
+        transform: scale(1.05) translateY(-.5rem);
+        box-shadow: 0 2.5rem 4rem rgba(orange, .5);
+    }
+
+    img {
+        max-width: 35rem;
+        max-height: 35rem;
+        box-shadow: 0 1.5rem 4rem rgba(black, .15);
+    }
+}

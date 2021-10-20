@@ -1,0 +1,22 @@
+.home-links-container {
+    text-align: center;
+
+    ul {
+        list-style-type: none; 
+    }
+}
+
+.social-links {
+    max-width: 80%;
+    padding-top: 2rem;
+    transition: transform;
+
+    &:hover {
+        transform: translateY(-1.5rem) scale(1.03);
+    }
+}
+
+.home-right-container {
+    text-align: center;
+    margin: 0 auto;
+}

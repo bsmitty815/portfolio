@@ -1,0 +1,46 @@
+.btn {
+
+    &:link,
+    &:visited { /* to style a linked button */
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 1.5rem 4rem;
+    display: inline-block; /* gives some padding around the element */
+    border-radius: 10rem;
+    transition: all .2s;
+    position: relative;
+    font-size: 1.6rem;
+    }
+
+    &:hover {
+        transform: translateY(-.3px);
+        box-shadow: 0 1rem 2rem rgba(black,.2);
+
+            
+    &::after {
+        transform: scaleX(1.4) scaleY(1.6); /* increases the element */
+        opacity: 0; /* fades out */
+    }
+    }
+
+    &:active { /* when the button is clicked */
+        transform: translateY(-1px);
+        box-shadow: 0 .5rem 1rem rgba(black,.2);
+    }
+    
+    &--white {
+        background-color: white;
+        color: #777;
+
+        &::after {
+            background-color: grey;
+        }
+    }
+
+    
+    &--animated {
+        animation: moveInBottom .5s ease-out .75s;
+        animation-fill-mode: backwards; /* automatically applies the styles of the 0% before the animation starts */
+    }
+
+}
