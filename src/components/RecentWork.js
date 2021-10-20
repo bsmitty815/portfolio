@@ -115,6 +115,7 @@ function RecentWork() {
                     
                 </div>
             </div>
+            <div className="recent-work-spacing"></div>
         </div>
     )
 }
