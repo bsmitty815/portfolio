@@ -10,7 +10,7 @@ import RailsLogo from '../images/rails-logo.png'
 function Home() {
 
     return (
-        <div className="hom-container">
+        <div>
             <div className="row">
                 <div className="col-1-of-3">
                     <div className="home-links-container">
@@ -41,7 +41,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <div >
+            <div className="home-logo-links-container">
                 <div class="row">
                     <div class="col-1-of-4">
                         <img src={HtmlLogo} alt="html" className="logo-links" />
