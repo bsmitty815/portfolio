@@ -31,12 +31,15 @@ function Home() {
                 
                 </div>
                 <div className="col-2-of-3">
-                    <div className="home-right-container">
-                        <p>
-                        Coming Soon
-                        </p>    
+                    <div className="home-right-box-container"> 
+
+
+                        <h1>coming soon</h1>
+
 
                     </div>
+
+
                     
                 </div>
             </div>
