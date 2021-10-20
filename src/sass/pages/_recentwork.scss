@@ -1,9 +1,10 @@
 .recent-work {
     margin-top: 5rem;
+    
 }
 
 .feature-app {
-    
+    justify-content: center;
     margin: 2rem 1rem 1rem 1rem;
 
     &--feature-box {
@@ -18,17 +19,6 @@
     
     }
 }
-
-// .feature-box {
-//     font-size: 1.5rem;
-//     padding: 2.5rem;
-//     text-align: center;
-//     border-radius: 3px;
-//     box-shadow: 0 1.5rem 4rem rgba(black, .15);
-//     transition: transform .3s;
-//     background-image: linear-gradient(to right bottom, rgb(255, 255, 255), orange);
-
-// }
 
 .app-image-box {
 
