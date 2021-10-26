@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/portfolio/static/js/main.8e1bf7eb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8e1bf7eb.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f331a66f.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f331a66f.js.map",
-    "static/js/2.3d5ace3b.chunk.js": "/portfolio/static/js/2.3d5ace3b.chunk.js",
-    "static/js/2.3d5ace3b.chunk.js.map": "/portfolio/static/js/2.3d5ace3b.chunk.js.map",
-    "static/js/3.949ac332.chunk.js": "/portfolio/static/js/3.949ac332.chunk.js",
-    "static/js/3.949ac332.chunk.js.map": "/portfolio/static/js/3.949ac332.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.5792e058.chunk.css",
+    "main.js": "/portfolio/static/js/main.932ba3aa.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.932ba3aa.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6b417f11.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6b417f11.js.map",
+    "static/js/2.a6211274.chunk.js": "/portfolio/static/js/2.a6211274.chunk.js",
+    "static/js/2.a6211274.chunk.js.map": "/portfolio/static/js/2.a6211274.chunk.js.map",
+    "static/js/3.e0628ba7.chunk.js": "/portfolio/static/js/3.e0628ba7.chunk.js",
+    "static/js/3.e0628ba7.chunk.js.map": "/portfolio/static/js/3.e0628ba7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3d5ace3b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3d5ace3b.chunk.js.LICENSE.txt"
+    "static/css/main.5792e058.chunk.css.map": "/portfolio/static/css/main.5792e058.chunk.css.map",
+    "static/js/2.a6211274.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a6211274.chunk.js.LICENSE.txt",
+    "static/media/css-logo.684008d5.png": "/portfolio/static/media/css-logo.684008d5.png",
+    "static/media/github-logo.a7cb412d.png": "/portfolio/static/media/github-logo.a7cb412d.png",
+    "static/media/html-logo.e3b7bb2e.png": "/portfolio/static/media/html-logo.e3b7bb2e.png",
+    "static/media/linkedin-logo.f069eac5.png": "/portfolio/static/media/linkedin-logo.f069eac5.png",
+    "static/media/me-social.d69e5720.png": "/portfolio/static/media/me-social.d69e5720.png",
+    "static/media/medium-logo.83b0a7b6.png": "/portfolio/static/media/medium-logo.83b0a7b6.png",
+    "static/media/nintendo-characters.fa2befc3.png": "/portfolio/static/media/nintendo-characters.fa2befc3.png",
+    "static/media/rails-logo.d15bcdc0.png": "/portfolio/static/media/rails-logo.d15bcdc0.png",
+    "static/media/random-dogs.c2d1fe84.png": "/portfolio/static/media/random-dogs.c2d1fe84.png",
+    "static/media/react-logo.8ce71e21.png": "/portfolio/static/media/react-logo.8ce71e21.png",
+    "static/media/soccer-talk.fc48a7f9.png": "/portfolio/static/media/soccer-talk.fc48a7f9.png",
+    "static/media/trading-cards.894b4a0f.png": "/portfolio/static/media/trading-cards.894b4a0f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f331a66f.js",
-    "static/js/2.3d5ace3b.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8e1bf7eb.chunk.js"
+    "static/js/runtime-main.6b417f11.js",
+    "static/js/2.a6211274.chunk.js",
+    "static/css/main.5792e058.chunk.css",
+    "static/js/main.932ba3aa.chunk.js"
   ]
 }
