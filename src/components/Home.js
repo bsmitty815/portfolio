@@ -37,22 +37,22 @@ function Home() {
                 </div>
                 <div className="col-2-of-3">
                     <div className="home-right-box-container"> 
-                        <h1>coming soon</h1>
+                        <p>I am Brian Smith and this is my portfolio site. It is a work in progress but thank you for stopping by.</p>
                     </div>
                 </div>
             </div>
             <div className="home-logo-links-container">
-                <div class="row">
-                    <div class="col-1-of-4">
+                <div className="row">
+                    <div className="col-1-of-4">
                         <img src={HtmlLogo} alt="html" className="logo-links" />
                     </div>
-                    <div class="col-1-of-4">
+                    <div className="col-1-of-4">
                         <img src={ReactLogo} alt="react" className="logo-links" />
                     </div>
-                    <div class="col-1-of-4">
+                    <div className="col-1-of-4">
                         <img src={CssLogo} alt="css" className="logo-links" />
                     </div>
-                    <div class="col-1-of-4">
+                    <div className="col-1-of-4">
                         <img src={RailsLogo} alt="rails" className="logo-links" />
                     </div>
                 </div>
