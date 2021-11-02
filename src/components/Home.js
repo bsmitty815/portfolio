@@ -37,7 +37,10 @@ function Home() {
                 </div>
                 <div className="col-2-of-3">
                     <div className="home-right-box-container"> 
-                        <p>I am Brian Smith and this is my portfolio site. It is a work in progress but thank you for stopping by.</p>
+                        <h1>Key Skills</h1>
+                        <p>Javascript | React | HTML | CSS | Ruby On Rails | Business to Business Sales | Business to Consumer Sales |Up-Selling Strategies | Marketing| Customer Education| Creative Problem Solving </p>
+                        <h1>About Me</h1>
+                        <p>I enjoy exercising, watching Premier League soccer, and spending time with friends and family. </p>
                     </div>
                 </div>
             </div>
