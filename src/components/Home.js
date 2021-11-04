@@ -38,7 +38,8 @@ function Home() {
                 <div className="col-2-of-3">
                     <div className="home-right-box-container"> 
                         <h1>Key Skills</h1>
-                        <p>Javascript | React | HTML | CSS | Ruby On Rails | Business to Business Sales | Business to Consumer Sales |Up-Selling Strategies | Marketing| Customer Education| Creative Problem Solving </p>
+                        <p>Javascript | React | HTML | CSS | Ruby On Rails | Business to Business Sales | Business to Consumer Sales </p>
+                        <p>Up-Selling Strategies | Marketing| Customer Education| Creative Problem Solving </p>
                         <h1>About Me</h1>
                         <p>I enjoy exercising, watching Premier League soccer, and spending time with friends and family. </p>
                     </div>
